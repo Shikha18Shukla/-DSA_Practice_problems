@@ -23,7 +23,7 @@ Java
 
 🚀 How to Use
 Clone the repository:
-git clone https://github.com/<your-username>/DSA_Practice_problems.git
+git clone https:https://github.com/Shikha18Shukla/-DSA_Practice_problems/tree/main
 Navigate to the topic you want to explore.
 Read, run, and modify the code to practice.
 
